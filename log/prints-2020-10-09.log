@@ -1,0 +1,8 @@
+23:42:52.038 [main] DEBUG Tests.act - je calcule le nombre de frames
+23:42:52.062 [main] INFO  Tests.act - nombre calculé de Frames
+23:42:52.072 [main] INFO  Tests.act - passage a frame avec success
+23:42:52.072 [main] DEBUG Tests.act - Identification des objets Draggable
+23:42:52.366 [main] INFO  Tests.act - Drag and drop avec success
+23:55:50.766 [main] DEBUG Tests.act - set des propriétés chrome
+23:55:59.660 [main] INFO  Tests.act - j'aggrandit la fenètre
+23:55:59.660 [main] DEBUG Tests.act - taper l adresse de la page amazon 

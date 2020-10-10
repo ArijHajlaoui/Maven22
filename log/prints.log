@@ -1,0 +1,6 @@
+23:56:04.551 [main] INFO  Tests.act - j entre dans la page amazon
+23:58:37.463 [main] DEBUG Tests.act - je calcule le nombre de frames
+23:58:37.497 [main] INFO  Tests.act - nombre calculé de Frames
+23:58:37.505 [main] INFO  Tests.act - passage a frame avec success
+23:58:37.505 [main] DEBUG Tests.act - Identification des objets Draggable
+23:58:37.802 [main] INFO  Tests.act - Drag and drop avec success

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42562" started-at="2020-10-10T12:44:56 CET" finished-at="2020-10-10T12:45:39 CET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42562" started-at="2020-10-10T12:44:56 CET" finished-at="2020-10-10T12:45:39 CET">
+      <class name="mycompany.Testc1">
+        <test-method status="PASS" signature="launch()[pri:0, instance:mycompany.Testc1@30b8a058]" name="launch" is-config="true" duration-ms="19965" started-at="2020-10-10T12:44:56 CET" finished-at="2020-10-10T12:45:16 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="tabulation1()[pri:0, instance:mycompany.Testc1@30b8a058]" name="tabulation1" duration-ms="144" started-at="2020-10-10T12:45:16 CET" finished-at="2020-10-10T12:45:16 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabulation1 -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:mycompany.Testc1@30b8a058]" name="launch" is-config="true" duration-ms="21296" started-at="2020-10-10T12:45:16 CET" finished-at="2020-10-10T12:45:37 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="enter()[pri:0, instance:mycompany.Testc1@30b8a058]" name="enter" duration-ms="1132" started-at="2020-10-10T12:45:37 CET" depends-on-methods="mycompany.Testc1.tabulation1" finished-at="2020-10-10T12:45:39 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter -->
+      </class> <!-- mycompany.Testc1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
