@@ -33,7 +33,7 @@
    <build>
    <resources>
    <resource>
-   <directory>/home/arij/Projet/Maven22/src/main/java/ressources</directory>
+   <directory>src/main/java/ressources</directory>
    </resource>
    </resources>
     <pluginManagement>
